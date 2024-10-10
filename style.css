@@ -54,6 +54,10 @@ h1{
   text-align: center;
 }
 
+section{
+  text-align: center;
+  margin: 20px;
+}
 .btn{
   border-radius: 12px;
   background-color: palevioletred;
