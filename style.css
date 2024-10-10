@@ -100,7 +100,15 @@ iframe{
   
 }
 
-
+table{
+  border-collapse: collapse;
+  margin-left: 400px;
+}
+th,td{
+  border: 2px solid black;
+  padding: 15px;
+  font-size: 30px;
+}
 
 
 
