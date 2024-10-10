@@ -1,5 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+body{
+  background-color: firebrick;
+}
 h1{
   color: chocolate;
   font-style: oblique;
   font-weight:bolder;
+  font-family:Verdana, Geneva, Tahoma, sans-serif ;
+  text-decoration: underline;
+  font-size: 80px;
+  text-align: center;
+  /* margin: 50px;
+  padding: 50px; */
+  
+}
+.unique{
+  background-color: darkolivegreen;
+  height: 900px;
+  width: 1000px;
+  /* margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto; */
+  margin: 30px auto 0;
 }
